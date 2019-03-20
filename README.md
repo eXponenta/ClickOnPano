@@ -1,2 +1,0 @@
-# ClickOnPano
-Created with CodeSandbox

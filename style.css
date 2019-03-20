@@ -1,0 +1,43 @@
+body {
+  background-color: #000000;
+  margin: 0px;
+  overflow: hidden;
+}
+
+#info {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  color: #ffffff;
+  padding: 5px;
+  font-family: Monospace;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+
+a {
+  color: #ffffff;
+}
+
+#description {
+  width: 200px;
+  height: auto;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  text-align: center;
+  color: #a0a0a0;
+  transform: translate(-50%, -100%);
+}
+
+#name {
+  margin-bottom: 2px;
+}
+
+.line {
+  width: 90%;
+  margin: 5%;
+  height: 1px;
+  background-color: white;
+}
